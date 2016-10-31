@@ -1,3 +1,5 @@
+// PRoblem link- http://www.spoj.com/problems/SMPSEQ3/
+
 #include<iostream>
 using namespace std;
 int main(void)
@@ -37,3 +39,12 @@ int main(void)
 	}
 }
 
+/* Sample Input:
+5
+-2 -1 0 1 4
+6
+-3 -2 -1 1 2 3
+
+Sample Output:
+0 4
+*/
