@@ -1,4 +1,4 @@
-# SPOJ-Solutions
+# SPOJ-Solutions with links to Questions
 
 - PrimeFactorization.cpp - http://www.spoj.com/problems/DIV/
 - numsteps.cpp - http://www.spoj.com/problems/NSTEPS/
