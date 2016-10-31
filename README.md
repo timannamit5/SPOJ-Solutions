@@ -1,5 +1,5 @@
-# SPOJ-Solutions
-
+# SPOJ-Solutions with q
+ 
 - PrimeFactorization.cpp - http://www.spoj.com/problems/DIV/
 - numsteps.cpp - http://www.spoj.com/problems/NSTEPS/
 - gcd.cpp - http://www.spoj.com/problems/GCD2/
