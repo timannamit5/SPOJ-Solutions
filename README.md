@@ -1,6 +1,6 @@
 # SPOJ-Solutions
 
-- PrimeFactorization.cpp - tbd
+- PrimeFactorization.cpp - tbd(To be done)
 - numsteps.cpp - http://www.spoj.com/problems/NSTEPS/
 - gcd.cpp - http://www.spoj.com/problems/GCD2/
 - div.cpp http://www.spoj.com/problems/DIV
