@@ -6,3 +6,16 @@
 - div.cpp http://www.spoj.com/problems/DIV
 - books1.cpp http://www.spoj.com/problems/BOOKS1
 - PriorityQueue.cpp http://www.spoj.com/problems/PQUEUE
+- aggrcow.cpp http://www.spoj.com/problems/AGGRCOW/ 
+- anarc09a.cpp http://www.spoj.com/problems/ANARC09A/
+- assist2.cpp http://www.spoj.com/problems/ASSIST/ 
+- cchess.cpp http://www.spoj.com/problems/CCHESS/
+- cpcrc1c3.cpp http://www.spoj.com/problems/CPCRC1C/
+- mkthnum.cpp http://www.spoj.com/problems/MKTHNUM/
+- onp.cpp http://www.spoj.com/problems/ONP/  
+- palin.cpp http://www.spoj.com/problems/PALIN/
+- pir1.cpp http://www.spoj.com/problems/PIR/
+- pour12.cpp http://www.spoj.com/problems/POUR1/
+- qtree.cpp http://www.spoj.com/problems/QTREE/ 
+- racetime2.cpp http://www.spoj.com/problems/RACETIME/
+- shpath.cpp http://www.spoj.com/problems/SHPATH/
