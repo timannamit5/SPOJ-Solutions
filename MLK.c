@@ -1,0 +1,72 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    int n,i;
+    long long sum=0,sum1=0,m;
+    char a,d,l,r,k;
+    scanf("%d",&n);
+    getchar();
+    for(i=0;i<n;i++)
+    {
+        a=getchar();
+        if(a=='-')
+        {
+            d=getchar();
+            l=getchar();
+            if(l!='\n')
+            {
+                r=getchar();
+                if(r!='\n')
+                {
+                    m=-((d-'0')*100+(l-'0')*10+(r-'0'));
+                    k=getchar();
+                    if(k!='\n')
+                    {
+                        m=m*10-(k-'0');
+                        getchar();
+                    }
+                }
+                else
+                {
+                   m=-((d-'0')*10+(l-'0'));
+                }
+            }
+            else
+            {
+                m=-(d-'0');
+            }
+        }
+        else
+        {
+             l=getchar();
+            if(l!='\n')
+            {
+                r=getchar();
+                if(r!='\n')
+                {
+                    m=(a-'0')*100+(l-'0')*10+(r-'0');
+                   k=getchar();
+                   if(k!='\n')
+                   {
+                       m=m*10+(k-'0');
+                       getchar();
+                   }
+                }
+                else
+                {
+                   m=(a-'0')*10+(l-'0');
+                }
+            }
+            else
+            {
+                m=(a-'0');
+            }
+        }
+       // printf("%lld ",m);
+        sum=sum+m;
+        sum1=sum1+abs(sum);
+    }
+   printf("%lld",sum1);
+    return 0;
+}
